@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background: url(../image/upstair.jpg);
+    background-size:100%;
+	
+	text-align:center;
+	font-family:"站酷酷黑";
+}
